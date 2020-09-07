@@ -36,13 +36,34 @@ h4{
 .col-md-4{
 	position: relative;
 }
-.rhino{
-	margin-top: -30px;
+.sunny h5{
+	margin-left: 100px;
+	margin-top: -25px;
+
+	
 }
-.rhino span{
+.rhino{
+	margin-top: 0px;
+}
+.rhino h5{
 	background-color: white;
 	color: red;
+   
+}
+.rhino span{
+	background-color: red;
+	color: white;
+}
+.row{
+	border-top: 1px solid #d9d9d9;
+}
+.sep{
+	position: relative;
+}
 
+.sep h6{
+	margin-left: 70px;
+	font-weight: bold;
 }
 .media-body{
 	position: relative;
@@ -52,6 +73,10 @@ h4{
 	display: inline-flex;
 	
 }
+.icons2 h5{
+	margin-left: 52%;
+	margin-top: -22px;
+}
 .formdetails{
 max-width: 300px;
 margin: 0 auto 30px;
@@ -60,6 +85,25 @@ background-color: #f4f5f6;
 padding: 20px;
 	
 	
+}
+h2{
+	color: red;
+}
+footer{
+	display: inline-flex;
+	border-top: 1px solid #666;
+}
+footer svg{
+	
+    width: 236px;
+    height: 36px;
+    margin-right: 15px;
+    margin-bottom: 12px;
+    fill: #f72210;
+}
+footer span{
+	color: #666;
+	line-height: 12px;
 }
 .icon-n{
 	flex: none;
@@ -210,4 +254,27 @@ h1{
 #login{
 	color: white;
 	
+}
+.met  h3 {
+	margin-left:30px;
+}
+
+.met  p {
+	margin-left:30px;
+}
+.met  #btn {
+	margin-left:30px;
+}
+.met2  h3 {
+	margin-left:30px;
+}
+
+.met2  p {
+	margin-left:30px;
+}
+.met2 #email{
+	margin-left:30px;
+}
+.met2 #btn{
+	margin-left:30px;
 }
