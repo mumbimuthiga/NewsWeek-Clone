@@ -28,7 +28,7 @@ h4{
 	font-weight: bold;
 }
 
-.col-sm-3 a{
+.col-md-3 a{
 	font-size: 15px;
 	color: black;
 	font-weight: bold;
@@ -41,9 +41,33 @@ h4{
 }
 .rhino span{
 	background-color: white;
-	
 	color: red;
 
+}
+.media-body{
+	position: relative;
+
+}
+.icons{
+	display: inline-flex;
+	
+}
+.formdetails{
+max-width: 300px;
+margin: 0 auto 30px;
+border: 1px solid #e5e5e5;
+background-color: #f4f5f6;
+padding: 20px;
+	
+	
+}
+.icon-n{
+	flex: none;
+display: block;
+width: 29px;
+height: 28px;
+background: url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain no-repeat #f72210;
+margin-right: 10px;
 }
 .col-sm-4 a{
 	font-size: 15px;
